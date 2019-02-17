@@ -22,4 +22,5 @@ Transformed the user experience of a news reading app using Material Design prin
 ## Screenshots
 <h4 align="center">
 <img src="art/screen1.png" height="350" width="200">
+  
 <img src="art/screen2.png" height="350" width="200">
