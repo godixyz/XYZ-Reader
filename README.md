@@ -18,3 +18,9 @@ Transformed the user experience of a news reading app using Material Design prin
 - App uses images that are high quality, specific, and full bleed.
 - App uses fonts that are either the Android defaults, are complementary, and aren't otherwise distracting.
 - App utilizes stable release versions of all libraries, Gradle, and Android Studio.
+
+## Screenshots
+<h4 align="center">
+<img src="art/screen1.png" height="350" width="200">
+  
+<img src="art/screen2.png" height="350" width="200">
